@@ -38,6 +38,8 @@ Debugging
 LazyGit
 ● <leader>gg - open lazygit
 ● c - commit
+● <shift>p - push changes
+● p - pull changes
 ● <space> - stage file
 ● a - stage all files
 ● <enter> - enter into a file to select changes
